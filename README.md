@@ -1,2 +1,54 @@
-# mauryakg
-👨‍💻 Akash | BCA Student | Web Developer | PHP • MySQL • Java • Frontend
+<h1 align="center">Hi 👋, I'm Akash</h1>
+<h3 align="center">💻 BCA Student | Passionate Web Developer | PHP • MySQL • Java Enthusiast</h3>
+
+---
+
+### 🚀 About Me
+- 🎓 Currently pursuing **Bachelor of Computer Applications (BCA)**  
+- 💡 Interested in **Web Development, Databases & AI Tools**  
+- 🔭 Working on my project: [Smart E-Notes Management System](https://github.com/mauryakg/Smart-E-Notes-Management-System)  
+- 🤖 Built a personal AI assistant named **Evy**  
+- 🌱 Currently learning **Java (Advanced) & Full Stack Web Development**  
+- ⚡ Fun fact: I love turning ideas into real web projects!
+
+---
+
+### 🧠 Tech Stack
+
+#### 💻 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+</p>
+
+#### 🧰 Tools & IDEs
+<p>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mauryakg&show_icons=true&theme=react" height="180em">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mauryakg&theme=react" height="180em">
+</p>
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://github.com/mauryakg" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:your-email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+⭐️ From [Akash (mauryakg)](https://github.com/mauryakg)
