@@ -14,7 +14,7 @@
 - 🎓 **BCA Student** passionate about building web apps and exploring new technologies  
 - 💡 Skilled in **C, C++, Java, HTML, CSS, JavaScript, PHP, MySQL**  
 - 🧠 Created **Smart E-Notes Management System** and **AI Assistant Evy**  
-- 🌱 Learning **Full Stack Development** and **AI Integration**  
+- 🌱 Learning **Full Stack Development**
 - ⚡ I enjoy writing clean, efficient, and user-friendly code  
 - 💬 Ask me about **Java, C++, or PHP projects**
 
