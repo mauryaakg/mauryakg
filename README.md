@@ -1,21 +1,28 @@
-<h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">💻 BCA Student | Programmer | Web Developer | AI Learner</h3>
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Akash!;💻+BCA+Student+%7C+Programmer;🌐+C+%7C+C%2B%2B+%7C+Java+%7C+Web+Developer;🤖+Creator+of+Evy+AI+%26+Smart+E-Notes+System">
+</p>
+
+---
+
+<h3 align="center">💡 Passionate Developer | Fast Learner | Problem Solver</h3>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Currently pursuing **Bachelor of Computer Applications (BCA)**  
-- 💡 Skilled in **C, C++, Java, and Web Development (HTML, CSS, JS, PHP)**  
-- 🔭 Developed projects like **Smart E-Notes Management System**  
-- 🌱 Exploring **Full Stack Development & Machine Learning Basics**  
-- ⚡ Goal: To become a **Full Stack Software Engineer**  
-- ❤️ I love writing clean, efficient, and real-world usable code.
+
+- 🎓 **BCA Student** passionate about building web apps and exploring new technologies  
+- 💡 Skilled in **C, C++, Java, HTML, CSS, JavaScript, PHP, MySQL**  
+- 🧠 Created **Smart E-Notes Management System** and **AI Assistant Evy**  
+- 🌱 Learning **Full Stack Development** and **AI Integration**  
+- ⚡ I enjoy writing clean, efficient, and user-friendly code  
+- 💬 Ask me about **Java, C++, or PHP projects**
 
 ---
 
-### 🧠 Programming Languages
+### 🧠 Languages & Tools
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -30,25 +37,21 @@
 
 ### 🧰 Tools & IDEs
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-IDE&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
-
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mauryakg&show_icons=true&theme=tokyonight" height="180em">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mauryakg&theme=tokyonight" height="180em">
-</p>
+### 🌟 Featured Projects
+- 🔹 [Smart E-Notes Management System](https://github.com/mauryakg/Smart-E-Notes-Management-System)
 
 ---
 
 ### 📫 Connect With Me
+
 <p align="center">
   <a href="https://github.com/mauryakg" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -60,4 +63,5 @@
 
 ---
 
-⭐️ From [Akash (mauryakg)](https://github.com/mauryakg)
+⭐️ *From [Akash (mauryakg)](https://github.com/mauryakg)*  
+🎯 *“Code. Create. Conquer.”*
